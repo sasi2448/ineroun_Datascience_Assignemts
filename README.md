@@ -1,1 +1,1 @@
-# ineroun_fullStackdDatascience_assignemts
+# ineroun_fullStackDatascience_assignemts
